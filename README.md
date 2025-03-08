@@ -47,5 +47,5 @@ For issues or feature requests, please open an issue in this repository.
 
 ---
 
-**Developed by:** Mahadi Zulfiker
+**Developed by:** Mahadi Zulfiker,Amitav Roy Chowdhory
 
